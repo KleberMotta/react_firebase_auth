@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877130495148",
+    "firebase_url": "https://react-native-firebase-4f9ac.firebaseio.com",
+    "project_id": "react-native-firebase-4f9ac",
+    "storage_bucket": "react-native-firebase-4f9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877130495148:android:7fa77e42942f2734341b09",
+        "android_client_info": {
+          "package_name": "com.rn_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877130495148-lm920m71g339ej9amcrtsbtg3udi2uuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_n1b1CoYbf29I_pdFuDJYHXEQkC9hts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877130495148-lm920m71g339ej9amcrtsbtg3udi2uuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877130495148-i9brp8qs2llhb7sg7hqic84r26887ak5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zenithdev.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
